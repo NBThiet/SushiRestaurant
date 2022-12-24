@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Jarene';
+    src: url('JareneRegular.woff2') format('woff2'),
+        url('JareneRegular.woff') format('woff'),
+        url('JareneRegular.svg#JareneRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
